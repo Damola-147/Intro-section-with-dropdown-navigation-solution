@@ -30,11 +30,11 @@ Users should be able to:
 
 - Mobile View:
 
-![Mobile View](./design/mobile.jpg)
+![Mobile View](./design/mobile.JPG)
 
 - Desktop View:
 
-![Desktop View](./design/desktop.jpg)
+![Desktop View](./design/desktop.JPG)
 
 
 ### Links
