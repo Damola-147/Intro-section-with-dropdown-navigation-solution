@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [View solution URL here](https://www.frontendmentor.io/solutions/responsive-introduction-section-with-drop-down-navigation-using-css-j-t6_c3TYlFe)
 - Live Site URL: [view live](https://damola-147.github.io/Intro-section-with-dropdown-navigation-solution/#)
 
 ## My process
